@@ -1,1 +1,16 @@
 
+The merged annotation used for RNA-seq data analysis in Jové et al., 2020 merged the following existing annotations: 
+1. Aaeg_L5 NCBI RefSeq Annotation version 101 date of submission 7/20/17, software version 7.4 
+available in this folder: ref_AaegL5.0_top_level.gff3
+(additional material downloadable at: ftp://ftp.ncbi.nlm.nih.gov/genomes/all/annotation_releases/7159/101/GCF_002204515.2_AaegL5.0/) 
+
+2. manual chemoreceptor annotation published as Supplementary Data 18 Chemoreceptor Annotation.gff3 in Matthews, et al., 2018. (DOI: https://doi.org/10.1038/s41586-018-0692-z)
+available in this folder: Supplementary_18_Chemoreceptor_Annotation.gff3
+
+For each chemoreceptor, the manual annotation replaced the NCBI RefSeq annotation. If the chemoreceptor did not previously exist in the AaegL5 RefSeq annotation, it was added.
+Script to merge files (makeGTF_VL.html)
+
+Merged annotation file (Sorted_20190215_BRCTSC_Sup18_ref_AaegL5.0_top_level.gff.gz)
+
+
+
