@@ -9,7 +9,11 @@ This folder contains the merged annotation used to analyze RNA-seq data and the 
 
 **Calcium_imaging**
 
-This folder contains the script used to calculate peak deltaF/F for all calcium imaging experiments, to generate heatmaps (Figure 4G, Figure 5D,Figure 6G,H, Figure S4A, and Figure S7E) and to perform clustering (related to Figure 5G-I, Figure S4, and Figure S5). This folder also contains the Supplemental Report and script for the clustering validation analyses performed in Figure S5. 
+This folder contains the script used to calculate peak deltaF/F for all calcium imaging experiments, to generate heatmaps (Figure 4G, Figure 5D,Figure 6G,H, Figure S4A, and Figure S7E) and to perform clustering (related to Figure 5G-I, Figure S4, and Figure S5). 
+
+**Clustering_validation**
+
+This folder contains the Supplemental Report and script for the clustering validation analyses performed in Figure S5. 
 
 **Raw_data**
 
