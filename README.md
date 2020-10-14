@@ -21,7 +21,7 @@ This folder contains the script used to calculate peak deltaF/F for all calcium 
 
 This folder contains the Supplemental Report and script for the clustering validation analyses performed in Figure S5. 
 
-**Raw_data_bioRxiv**
+**Raw_data**
 
 This folder contains raw data for figures plotted in Prism, corresponding to the bioRxiv version. For these data, Prism was also used to perform the statistical test indicated in Jove et al., 2020 figure legends (Figure 1E,F,J,L,M; Figure 2C-E; Figure 3C,D; Figure 4H,J; Figure 5B,E,F; Figure 6J,L; Figure 7B,C,G-J; Figure S1D-J; Figure S3B; and Figure S5C,D). 
 
