@@ -34,6 +34,10 @@ This folder contains raw data for figures plotted in Prism, corresponding to the
 
 This folder contains raw data for figures plotted in Prism, corresponding to the Neuron version. For these data, Prism was also used to perform the statistical test indicated in Jove et al., 2020 figure legends (Figure 1E,F,J,L,M; Figure 2C-E; Figure 3C,D; Figure 5B,E,F; Figure 6J,L; Figure 7B,C,G-J; Figure S1D-J; Figure S3E-G; Figure S3E-G; Figure S4B-D; Figure S6F-K; and Figure S7E). 
 
+**Data_File_1_Neuron**
+
+This file corresponds to the raw data that accompanies the Neuron version. 
+
 
 
 
